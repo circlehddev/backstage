@@ -1,5 +1,11 @@
 # @backstage/cli
 
+## 0.7.14
+
+### Patch Changes
+
+- 12e074a6e4: Fix duplication checks to stop looking for the old core packages, and to allow some explicitly
+
 ## 0.7.13
 
 ### Patch Changes
